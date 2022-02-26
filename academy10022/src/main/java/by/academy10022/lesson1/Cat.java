@@ -20,7 +20,7 @@ public class Cat {
 	}
 
 	public void sleep() {
-		System.out.println("kot spit:" + nickname);
+		System.out.println("kot spiit:" + nickname);
 	}
 
 	public void eat() {
@@ -48,4 +48,5 @@ public class Cat {
 	public void setnickname(String nickname) {
 		this.nickname = nickname;
 	}
+	
 }
