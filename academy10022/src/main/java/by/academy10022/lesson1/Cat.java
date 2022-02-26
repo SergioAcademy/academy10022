@@ -20,16 +20,16 @@ public class Cat {
 	}
 
 	public void sleep() {
-		System.out.println("Кот спит:" + nickname);
+		System.out.println("kot spit:" + nickname);
 	}
 
 	public void eat() {
-		System.out.println("Кот ест:" + nickname);
+		System.out.println("kot est:" + nickname);
 	}
 
 	public void grow(int addAge) {
 		age = age + addAge;
-		System.out.println("Кот вырос:" + age);
+		System.out.println("kot viros:" + age);
 
 	}
 
